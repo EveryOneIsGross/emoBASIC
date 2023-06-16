@@ -45,4 +45,19 @@ With these emojis, you can create a multidimensional grid of commands and naviga
 
 The directional emojis 👈, 👉, 👆, and 👇 are used to navigate through the code.
 
+Line Length Control in emoBASIC
+In emoBASIC, you have the ability to define the maximum line length at the start of your program. This is done by writing the START command (🤙) a certain number of times. For example, if you write 🤙🤙🤙🤙🤙 at the beginning of your program, you are setting the maximum line length to 5 characters.
+
+This feature is designed to keep your code concise and manageable. Any characters beyond the defined line length will be treated as comments and will not be executed as part of the program. This allows you to add notes and explanations directly in your code without affecting the program's operation.
+
+Here's an example:
+
+```
+🤙🤙🤙🤙🤙
+👌✊☝️👉👉 # This line sets the variable ✊ to 1
+👋✊👉👉👉 # This line prints the value of ✊
+✋👉👉👉👉 # This line ends the program
+```
+In this example, the maximum line length is set to 5 characters. The lines of code are kept within this limit, and any characters beyond this limit are treated as comments.
+
 
