@@ -45,6 +45,20 @@ With these emojis, you can create a multidimensional grid of commands and naviga
 
 The directional emojis 👈, 👉, 👆, and 👇 are used to navigate through the code.
 
+```
+✌️Hello, World
+🤙🤙
+👋 ✌️
+✋
+```
+Explanation of the code:
+
+The program starts with 🤙 (START).
+The 👋 (Waving hand) emoji is used to print the text "Hello, World" preceded by ✌️.
+The program ends with ✋ (END).
+When executed, this program will output:
+Hello, World
+
 Line Length Control in emoBASIC
 In emoBASIC, you have the ability to define the maximum line length at the start of your program. This is done by writing the START command (🤙) a certain number of times. For example, if you write 🤙🤙🤙🤙🤙 at the beginning of your program, you are setting the maximum line length to 5 characters.
 
