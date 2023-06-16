@@ -1,5 +1,3 @@
-Sure, I'll do my best to provide a beginner-friendly introduction to emoBASIC. 
-
 ## Lesson 1: Introduction to emoBASIC
 
 Welcome to your first lesson on emoBASIC, a unique programming language that uses hand gesture emojis to create an expressive, intuitive, and visually engaging coding experience!
@@ -64,6 +62,8 @@ Here's what each part of the program does:
 - ✋ is the END command, indicating the end of our program.
 
 When this program runs, it will print 0 and then 1 to the console.
+
+///////////////////////////////////////
 
 ### Lesson 2: User Input and Functions
 
