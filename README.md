@@ -16,7 +16,7 @@ While it's a creative and interesting way of introducing programming concepts, t
 
 Emoji Glossary
 Each hand emoji in the language represents a specific command or operation:
-''
+'
 🤙 (Call me hand): START (Beginning of a program)
 👋 (Waving hand): PRINT (Outputs data to the console)
 🖐️ (Raised hand): INPUT (Used to receive user input)
@@ -44,56 +44,38 @@ Each hand emoji in the language represents a specific command or operation:
 ✌️ (Victory hand): LESS THAN operator
 🤟 (I love you hand sign): MORE THAN operator
 👌 (OK Hand): EQUAL TO operator
-''
+'
 Variables: Variables can be represented by a hand gesture emoji, such as ✊. To assign a value to a variable, you can use the 👌 emoji followed by the variable and the value. For example: 👌 ✊ ☝️ assigns the value 1 to the variable ✊.
 
 Print Output: To print output, you can use the 👋 emoji followed by the variable or value you want to print. For example: 👋 ✊ prints the value of the variable ✊.
 
 Conditionals: Conditionals can be expressed using the 🤛 (Left-facing fist) and 🤜 (Right-facing fist) emojis. For example:
 
-''
+'
 🤛 ✊ ✌️ ✊ 🤜 👋 ✊
-''
+'
 This represents an IF statement where the condition compares the values of two variables (✊ and ✌️). If they are equal, it will execute the following line which prints the value of ✊.
 
 Loops: Loops can be created using the 🙌 (Raising hands) emoji. For example:
 
-''
+'
 🙌
 👌 ✊ ☝️
 👋 ✊
 🙌
-''
+'
 This represents a loop that assigns the value 1 to the variable ✊ and prints its value indefinitely.
 
 Arithmetic Operations: For arithmetic operations, you can use the variable symbols and combine them with the desired operation emoji. For example:
 
-Copy code
+'
 👌 ✊ ☝️
 👌 ✌️ 🤟 ✊
 👋 ✊
+'
 This assigns the sum of the values of ✊ and ✌️ to ✊ and then prints its value.
 
 This syntax provides a basic structure for working with variables, conditionals, loops, and arithmetic operations. 
-
-Getting Started
-To start using emoBASIC, you will need an interpreter or transpiler that can convert emoBASIC code into executable code in a target language such as Python or JavaScript.
-
-Installation: Clone or download the emoBASIC repository to your local machine.
-
-Usage: Write emoBASIC code using the hand gesture emojis as specified in the emoji glossary. Save your code with the .emo extension.
-
-Interpretation: Run your emoBASIC code through the interpreter or transpiler to generate executable code in the target language.
-
-bash
-Copy code
-python interpreter.py my_program.emo  # Example using Python interpreter
-Execute: Execute the generated code in the target language to see the results of your emoBASIC program.
-bash
-Copy code
-python my_program.py  # Example execution of generated Python code
-Example Code
-Here's a simple example of a "Hello, World!" program in emoBASIC:
 
 ''
 🤙
