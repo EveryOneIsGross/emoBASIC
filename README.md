@@ -60,4 +60,20 @@ Here's an example:
 ```
 In this example, the maximum line length is set to 5 characters. The lines of code are kept within this limit, and any characters beyond this limit are treated as comments.
 
+## IRL (In Real Life) emoBASIC
+In addition to the standard emoBASIC language, there is a branch designed for real-life, conversational use. This version of the language, known as IRL emoBASIC, uses the same glossary of hand gesture emojis but does not require the use of directional commands. Instead, it operates in a linear fashion, making it ideal for conversational and interactive scenarios.
+
+With IRL emoBASIC, you can communicate complex ideas and instructions using a series of hand gestures. This can be particularly useful in environments where verbal communication is not possible or practical. For example, you could use IRL emoBASIC to silently communicate programming concepts in a noisy environment, or to engage in a visual conversation about code with a remote colleague over video chat.
+
+Here's an example of how you might use IRL emoBASIC in a conversation:
+```
+Person 1: 🤙👌✊☝️ (Start, assign the value 1 to the variable ✊)
+Person 2: 👍✊ (Increment the variable ✊ by 1)
+Person 1: 👋✊ (Print the value of ✊)
+Person 2: ✋ (End)
+```
+In this example, two people are using IRL emoBASIC to collaboratively write a simple program. They are able to communicate their intentions clearly and efficiently using just a series of hand gesture emojis.
+
+IRL emoBASIC opens up a whole new world of possibilities for visual, non-verbal communication about programming and logic. Whether you're a seasoned developer or a complete beginner, you can use IRL emoBASIC to make your conversations more engaging and visually intuitive.
+
 
