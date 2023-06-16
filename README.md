@@ -1,11 +1,11 @@
 
 ## emoBASIC - an Emoji-only Programming Language
 
-Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers. The unique aspect of this language is the code's flow, guided by hand direction emojis, which results in a multidimensional structure.
+Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers. The unique aspect of this language is the code's flow, guided by hand direction emojis, which results in a multidimensional structure and format guide. When used IRL it can be used without the directional guides and run in a linear or converational manner. 
 
 ## Features
 
-Expressive Syntax: Communicate your code's intent through hand gesture emojis, representing variables, loops, conditionals, and more.
+Expressive Syntax: Communicate your code's intent through hand gesture emojis, representing variables, conditionals, and more.
 Visual Programming: Embrace a multidimensional programming experience by utilizing hand direction emojis to guide the flow of your code.
 Simple and Intuitive: Simplify complex programming concepts with a minimalistic approach, focusing on essential operations and structures.
 Expandable and Customizable: Build upon the existing set of emojis and define your own functions and commands within the language.
