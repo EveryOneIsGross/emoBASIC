@@ -113,4 +113,60 @@ This is what's happening in the program:
 
 When you run this program, it will define a function that increments a variable, call that function, and then print the value of the variable (which will be 1, since the function incremented it) to the console.
 
-In this lesson, we've learned how to take user input and create functions in emoBASIC. These concepts are essential in creating more complex programs. Keep practicing, and let me know if you have any more questions or if there's anything else you'd like to learn about emoBASIC!
+In this lesson, we've learned how to take user input and create functions in emoBASIC. These concepts are essential in creating more complex programs.
+
+////////
+
+### Lesson 3: Conditionals and Looping
+
+### Example 1: Using Conditionals
+
+In emoBASIC, we can use the emojis 🤛 (LESS THAN operator), 🤜 (MORE THAN operator), and 🖖 (EQUAL TO operator) to create conditions. Let's write a simple program that compares two numbers and prints a message depending on the result.
+
+```emoBASIC
+🤙
+✊☝️
+✊✊
+🤛✊✊
+👋☝️
+🖖✊✊
+👋✊
+✋
+```
+
+Here's what's happening in the program:
+- 🤙 is the START command, marking the beginning of the program.
+- ✊☝️ creates a variable and assigns it the value 1.
+- ✊✊ creates another variable and assigns it the value 2.
+- 🤛✊✊ checks if the first variable is less than the second one.
+- 👋☝️ if the condition is true, it prints 1.
+- 🖖✊✊ checks if the first variable is equal to the second one.
+- 👋✊ if the condition is true, it prints the value of the first variable.
+- ✋ is the END command, marking the end of the program.
+
+### Example 2: Creating a Loop
+
+In emoBASIC, we can create loops using the emojis 👈 (move to the previous command in the current line) and 👉 (move to the next command in the current line). Let's create a program that prints numbers from 1 to 5.
+
+```emoBASIC
+🤙
+✊
+👋✊
+👍✊
+🤜✊☝️☝️☝️☝️☝️
+👈👈👈
+✋
+```
+
+Here's how it works:
+- 🤙 is the START command, marking the beginning of the program.
+- ✊ creates a variable. Variables in emoBASIC default to 0.
+- 👋 is the PRINT command, which outputs the value of the variable to the console.
+- 👍 increments our variable by 1.
+- 🤜✊☝️☝️☝️☝️☝️ checks if the variable is less than 5.
+- 👈👈👈 if the condition is true, it goes back three steps and repeats the loop.
+- ✋ is the END command, marking the end of the program.
+
+This program will print the numbers 1 to 5 to the console.
+
+In this lesson, we've learned how to use conditionals and loops in emoBASIC, which are crucial for creating more complex and dynamic programs. 
