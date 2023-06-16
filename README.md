@@ -14,6 +14,7 @@ Expandable and Customizable: Build upon the existing set of emojis and define yo
 Emoji Glossary
 Each hand emoji in the language represents a specific command or operation:
 ```
+🤙 (Call me hand): START (Beginning of a program)
 👋 (Waving hand): PRINT (Outputs data to the console)
 🖐️ (Raised hand): INPUT (Used to receive user input)
 ✋ (Raised hand, fingers splayed): END (Terminates a program)
@@ -21,25 +22,24 @@ Each hand emoji in the language represents a specific command or operation:
 ✊ (Raised fist): Variable (Used to represent variables in the language)
 👊 (Oncoming fist): 0 (Binary representation)
 ☝️ (One raised finger): 1 (Binary representation)
-🤛 (Left-facing fist): IF (Start of an IF condition block)
-🤜 (Right-facing fist): THEN (Start of a THEN action block)
+🤛 (Left-facing fist): LESS THAN operator
+🤜 (Right-facing fist): MORE THAN operator
+🖖 (Vulcan salute): EQUAL TO operator
 🙌 (Raising hands): LOOP (Start of a LOOP block)
 👏 (Clapping hands): REPEAT (Repeatedly execute a block of code)
 🙏 (Folded hands): Function (Defines a function)
+👌 (OK hand): Assignment operator (Assigns a value to a variable)
 👍 (Thumbs up): Increment (Increases the value of a variable by 1)
 👎 (Thumbs down): Decrement (Decreases the value of a variable by 1)
 👈 (Backhand index pointing left): Move to the previous command in the current line
 👉 (Backhand index pointing right): Move to the next command in the current line
 👆 (Backhand index pointing up): Move to the same command in the previous line
 👇 (Backhand index pointing down): Move to the same command in the next line
-✌️ (Victory salute): Quotation (Starts or ends a string of text)
 🤞 (Crossed fingers): AND (Logical AND operator)
 🤟 (Love-you gesture): OR (Logical OR operator)
 🤘 (Sign of the horns): NOT (Logical NOT operator)
 🤲 (Palms up together): , (Comma)
-🖖👍 (Vulcan hand + Thumbs up): MORE THAN operator
-🖖👎 (Vulcan hand + Thumbs down): LESS THAN operator
-🖖👌 (Vulcan hand + OK Hand): EQUAL TO operator
+✌️ (Victory Hand): Variable State (Used to represent a specific state of a variable)
 ```
 With these emojis, you can create a multidimensional grid of commands and navigate through them using the directional hand emojis. This adds a new dimension to your programming language and makes it even more unique and engaging.
 
@@ -50,29 +50,31 @@ In emoBASIC, you have the ability to define the maximum line length at the start
 
 This feature is designed to keep your code concise and manageable. Any characters beyond the defined line length will be treated as comments and will not be executed as part of the program. This allows you to add notes and explanations directly in your code without affecting the program's operation.
 
-Here's an example:
+emoBASIC:
 
 ```
 🤙🤙🤙🤙🤙
-👌✊☝️👉👉 # This line sets the variable ✊ to 1
-👋✊👉👉👉 # This line prints the value of ✊
-✋👉👉👉👉 # This line ends the program
+👌 ✊ ☝️👊
+👌 ✌️ ☝️
+🤛 ✊ 🤜 ✌️
+👋 ✊
+✋
 ```
-In this example, the maximum line length is set to 5 characters. The lines of code are kept within this limit, and any characters beyond this limit are treated as comments.
+In this program, we're assigning the binary value 10 (☝️👊, which is 2 in decimal) to the variable ✊ and the value 1 (☝️) to the variable ✌️. Then we're checking if the value of ✊ is less than ✌️, and if it is, we're printing the value of ✊.
 
-## IRL (In Real Life) emoBASIC
-In addition to the standard emoBASIC language, there is a branch designed for real-life, conversational use. This version of the language, known as IRL emoBASIC, uses the same glossary of hand gesture emojis but does not require the use of directional commands. Instead, it operates in a linear fashion, making it ideal for conversational and interactive scenarios.
+In IRLemoBASIC, the conversation would go like this:
 
-With IRL emoBASIC, you can communicate complex ideas and instructions using a series of hand gestures. This can be particularly useful in environments where verbal communication is not possible or practical. For example, you could use IRL emoBASIC to silently communicate programming concepts in a noisy environment, or to engage in a visual conversation about code with a remote colleague over video chat.
+IRLemoBASIC:
 
-Here's an example of how you might use IRL emoBASIC in a conversation:
 ```
-Person 1: 🤙👌✊☝️ (Start, assign the value 1 to the variable ✊)
-Person 2: 👍✊ (Increment the variable ✊ by 1)
-Person 1: 👋✊ (Print the value of ✊)
-Person 2: ✋ (End)
+You: 🤙 (Start)
+You: 👌 ✊ ☝️👊 (Assign binary 10 to variable ✊)
+You: 👌 ✌️ ☝️ (Assign 1 to variable ✌️)
+You: 🤛 ✊ 🤜 ✌️ (If ✊ is less than ✌️)
+You: 👋 ✊ (Print ✊)
+You: ✋ (End)
 ```
-In this example, two people are using IRL emoBASIC to collaboratively write a simple program. They are able to communicate their intentions clearly and efficiently using just a series of hand gesture emojis.
+In this conversation, you're using hand gestures to communicate the same program. You start the program with the 🤙 gesture, assign values to the variables with 👌 ✊ ☝️👊 and 👌 ✌️ ☝️, check if ✊ is less than ✌️ with 🤛 ✊ 🤜 ✌️, print ✊ with 👋 ✊, and end the program with ✋.
 
 IRL emoBASIC opens up a whole new world of possibilities for visual, non-verbal communication about programming and logic. Whether you're a seasoned developer or a complete beginner, you can use IRL emoBASIC to make your conversations more engaging and visually intuitive.
 
