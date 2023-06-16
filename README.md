@@ -1,6 +1,6 @@
 
 ## emoBASIC - Hand Gesture Emoji Programming Language
-Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers.
+Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers. This language provides a new way of visualizing programming concepts. It's designed to be minimalistic, replacing the complex syntax with simple, intuitive symbols. The unique aspect of this language is the code's flow, guided by hand direction emojis, which results in a multidimensional structure.
 
 ##Features
 
@@ -9,10 +9,6 @@ Visual Programming: Embrace a multidimensional programming experience by utilizi
 Simple and Intuitive: Simplify complex programming concepts with a minimalistic approach, focusing on essential operations and structures.
 Expandable and Customizable: Build upon the existing set of emojis and define your own functions and commands within the language.
 
-Introduction
-This language provides a new way of visualizing programming concepts. It's designed to be minimalistic, replacing the complex syntax with simple, intuitive symbols. The unique aspect of this language is the code's flow, guided by hand direction emojis, which results in a multidimensional structure.
-
-While it's a creative and interesting way of introducing programming concepts, this language, due to its abstract nature, might pose challenges for complex programming tasks. It's an excellent tool for education and conceptual understanding, making programming an accessible and fun activity.
 
 Emoji Glossary
 Each hand emoji in the language represents a specific command or operation:
