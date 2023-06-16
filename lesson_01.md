@@ -1,3 +1,26 @@
+Sure, I'll do my best to provide a beginner-friendly introduction to emoBASIC. 
+
+## Lesson 1: Introduction to emoBASIC
+
+Welcome to your first lesson on emoBASIC, a unique programming language that uses hand gesture emojis to create an expressive, intuitive, and visually engaging coding experience!
+
+### What is emoBASIC?
+
+emoBASIC is a programming language that replaces the traditional alphanumeric characters used in most languages with hand gesture emojis. This approach simplifies the syntax and makes coding accessible to beginners and enjoyable for experienced programmers.
+
+### The Basics of emoBASIC
+
+In emoBASIC, each hand gesture emoji is associated with a specific command or operation. Here are a few of the key emojis and their corresponding operations:
+
+- 🤙 (Call me hand): START (Beginning of a program)
+- 👋 (Waving hand): PRINT (Outputs data to the console)
+- ✋ (Raised hand, fingers splayed): END (Terminates a program)
+- ✊ (Raised fist): Variable (Used to represent variables in the language)
+- 👍 (Thumbs up): Increment (Increases the value of a variable by 1)
+- 👎 (Thumbs down): Decrement (Decreases the value of a variable by 1)
+
+Here's how we can use these emojis to write a basic program in emoBASIC.
+
 ### Example 1: Printing a Number
 
 Let's start with a simple program that prints the number 1 to the console. In emoBASIC, the number 1 is represented by the one raised finger emoji ☝️.
@@ -42,4 +65,52 @@ Here's what each part of the program does:
 
 When this program runs, it will print 0 and then 1 to the console.
 
-I appreciate your patience and guidance. Let me know if you have any more questions or anything else you'd like to learn about emoBASIC!
+### Lesson 2: User Input and Functions
+
+### Example 1: Getting User Input
+
+In emoBASIC, we use the 🖐️ emoji to take user input. Let's create a program that asks the user for a number and prints it.
+
+```emoBASIC
+🤙
+🖐️
+👋✊
+✋
+```
+
+Here's how this works:
+- 🤙 is the START command, marking the beginning of the program.
+- 🖐️ is the INPUT command, which receives user input and stores it in a variable.
+- 👋 is the PRINT command, which outputs the value of the variable to the console, with ✊ referring to our variable.
+- ✋ is the END command, marking the end of the program.
+
+When you run this program, it will wait for the user to input a number, store it in a variable, and print that number to the console.
+
+### Example 2: Creating a Function
+
+In emoBASIC, we can create functions using the 🙏 emoji. Let's write a function that increments a variable and then call that function.
+
+```emoBASIC
+🤙
+✊
+🙏
+👍✊
+🤚
+🙏
+👋✊
+✋
+```
+
+This is what's happening in the program:
+- 🤙 is the START command, marking the beginning of the program.
+- ✊ creates a variable. Variables in emoBASIC default to 0.
+- 🙏 begins the definition of a function.
+- 👍 increment our variable by 1, with ✊ referring to our variable.
+- 🤚 is the RETURN command, marking the end of the function and returning control back to the main program.
+- 🙏 is used to call the function we defined earlier.
+- 👋 is the PRINT command, which outputs the value of the variable to the console, with ✊ referring to our variable.
+- ✋ is the END command, marking the end of the program.
+
+When you run this program, it will define a function that increments a variable, call that function, and then print the value of the variable (which will be 1, since the function incremented it) to the console.
+
+In this lesson, we've learned how to take user input and create functions in emoBASIC. These concepts are essential in creating more complex programs. Keep practicing, and let me know if you have any more questions or if there's anything else you'd like to learn about emoBASIC!
