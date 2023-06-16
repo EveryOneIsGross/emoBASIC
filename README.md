@@ -105,8 +105,6 @@ The loop continues until we reach the line with 🤛 ✊ ✌️. At this point, 
 If ✊ is equal to ✌️, we exit the loop and end the program using ✋.
 This code generates a random number by repeatedly adding the value of ✌️ to ✊. It keeps printing the updated value of ✊ until ✊ matches the value of ✌️, at which point the program terminates.
 
-For more examples and detailed documentation, please refer to the emoBASIC Documentation.
-
 Contributing
 Contributions to emoBASIC are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
