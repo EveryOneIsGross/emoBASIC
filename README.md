@@ -1,7 +1,7 @@
 
 ## emoBASIC - an Emoji-only Programming Language
 
-Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers. The unique aspect of this language is the code's flow, guided by hand direction emojis, which results in a multidimensional structure and format guide. When used IRL it can be used without the directional guides and run in a linear or converational manner. 
+Welcome to emoBASIC, a unique and expressive programming language that utilizes hand gesture emojis to write code. With emoBASIC, you can explore the world of programming in an engaging and visually intuitive way. This language simplifies syntax by replacing traditional alphanumeric characters with a set of hand gesture emojis, making it accessible to beginners and fun for experienced programmers. 
 
 ## Features
 
@@ -57,15 +57,10 @@ The program ends with ✋ (END).
 When executed, this program will output:
 Hello, World
 
-Line Length Control in emoBASIC
-In emoBASIC, you have the ability to define the maximum line length at the start of your program. This is done by writing the START command (🤙) a certain number of times. For example, if you write 🤙🤙🤙🤙🤙 at the beginning of your program, you are setting the maximum line length to 5 characters.
-
-This feature is designed to keep your code concise and manageable. Any characters beyond the defined line length will be treated as comments and will not be executed as part of the program. This allows you to add notes and explanations directly in your code without affecting the program's operation.
-
 emoBASIC:
 
 ```
-🤙🤙🤙🤙🤙
+🤙
 👌 ✊ ☝️👊
 👌 ✌️ ☝️
 🤛 ✊ 🤜 ✌️
@@ -74,9 +69,7 @@ emoBASIC:
 ```
 In this program, we're assigning the binary value 10 (☝️👊, which is 2 in decimal) to the variable ✊ and the value 1 (☝️) to the variable ✌️. Then we're checking if the value of ✊ is less than ✌️, and if it is, we're printing the value of ✊.
 
-In IRLemoBASIC, the conversation would go like this:
-
-IRLemoBASIC:
+Communicating in person with emoBASIC
 
 ```
 You: 🤙 (Start)
