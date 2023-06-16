@@ -22,23 +22,21 @@ Each hand emoji in the language represents a specific command or operation:
 ✊ (Raised fist): Variable (Used to represent variables in the language)
 👊 (Oncoming fist): 0 (Binary representation)
 ☝️ (One raised finger): 1 (Binary representation)
-🤛 (Left-facing fist): LESS THAN operator
-🤜 (Right-facing fist): MORE THAN operator
-🖖 (Vulcan salute): EQUAL TO operator
-🙌 (Raising hands): LOOP (Start of a LOOP block)
-👏 (Clapping hands): REPEAT (Repeatedly execute a block of code)
 🙏 (Folded hands): Function (Defines a function)
-👌 (OK hand): Assignment operator (Assigns a value to a variable)
 👍 (Thumbs up): Increment (Increases the value of a variable by 1)
 👎 (Thumbs down): Decrement (Decreases the value of a variable by 1)
 👈 (Backhand index pointing left): Move to the previous command in the current line
 👉 (Backhand index pointing right): Move to the next command in the current line
 👆 (Backhand index pointing up): Move to the same command in the previous line
 👇 (Backhand index pointing down): Move to the same command in the next line
+🤛 (Left-facing fist): LESS THAN operator
+🤜 (Right-facing fist): MORE THAN operator
+🖖 (Vulcan salute): EQUAL TO operator
 🤞 (Crossed fingers): AND (Logical AND operator)
 🤟 (Love-you gesture): OR (Logical OR operator)
 🤘 (Sign of the horns): NOT (Logical NOT operator)
 🤲 (Palms up together): , (Comma)
+👌 (OK hand): Assignment operator (Assigns a value to a variable)
 ✌️ (Victory Hand): Variable State (Used to represent a specific state of a variable)
 ```
 With these emojis, you can create a multidimensional grid of commands and navigate through them using the directional hand emojis. This adds a new dimension to your programming language and makes it even more unique and engaging.
