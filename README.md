@@ -20,6 +20,7 @@ Each hand emoji in the language represents a specific command or operation:
 🤚 (Raised back of hand): RETURN (Returns a value from a function)
 ✊ (Raised fist): Variable (Used to represent variables in the language)
 👊 (Oncoming fist): 0 (Binary representation)
+☝️  (One raised finger): 1 (Binary representation) 
 🤛 (Left-facing fist): IF (Start of an IF condition block)
 🤜 (Right-facing fist): THEN (Start of a THEN action block)
 🙌 (Raising hands): LOOP (Start of a LOOP block)
