@@ -43,9 +43,7 @@ Each hand emoji in the language represents a specific command or operation:
 🤞 (Crossed fingers): AND (Logical AND operator)
 🤟 (Love-you gesture): OR (Logical OR operator)
 🤘 (Sign of the horns): NOT (Logical NOT operator)
-🤲 (Palms up together): , (Comma)
 👌 (OK hand): Assignment operator (Assigns a value to a variable)
-✌️ (Victory Hand): Variable State (Used to represent a specific state of a variable)
 ```
 With these emojis, you can create a multidimensional grid of commands and navigate through them using the directional hand emojis. This adds a new dimension to your programming language and makes it even more unique and engaging.
 
