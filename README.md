@@ -49,43 +49,43 @@ With these emojis, you can create a multidimensional grid of commands and naviga
 
 The directional emojis 👈, 👉, 👆, and 👇 are used to navigate through the code.
 
+Alright, let's update the examples according to the changes:
+
+**Example 1:**
 ```
 🤙
-👋Hello, World
+👋 Hello, World
 ✋
 ```
 Explanation of the code:
 
-The program starts with 🤙 (START).
-The 👋 (Waving hand) emoji is used to print the text "Hello, World"
-The program ends with ✋ (END).
-When executed, this program will output:
-Hello, World
+The program starts with 🤙 (START). The 👋 (Waving hand) emoji is used to print the text "Hello, World". The program ends with ✋ (END). When executed, this program will output: Hello, World
 
-emoBASIC:
-
+**Example 2:**
 ```
 🤙
 👌 ✊ ☝️👊
-👌 ✌️ ☝️
-🤛 ✊ 🤜 ✌️
+👍 ✊
+🤛 ✊ 🤜 ☝️👊
 👋 ✊
 ✋
 ```
-In this program, we're assigning the binary value 10 (☝️👊, which is 2 in decimal) to the variable ✊ and the value 1 (☝️) to the variable ✌️. Then we're checking if the value of ✊ is less than ✌️, and if it is, we're printing the value of ✊.
+In this program, we're assigning the binary value 10 (☝️👊, which is 2 in decimal) to the variable ✊. Then, we increment the variable ✊ with 👍. After that, we're checking if the value of ✊ is less than 2 (☝️👊), and if it is, we're printing the value of ✊.
 
-Communicating in person with emoBASIC
+**Communicating in person with emoBASIC**
 
-```
 You: 🤙 (Start)
+
 You: 👌 ✊ ☝️👊 (Assign binary 10 to variable ✊)
-You: 👌 ✌️ ☝️ (Assign 1 to variable ✌️)
-You: 🤛 ✊ 🤜 ✌️ (If ✊ is less than ✌️)
+
+You: 👍 ✊ (Increment variable ✊)
+
+You: 🤛 ✊ 🤜 ☝️👊 (If ✊ is less than 2)
+
 You: 👋 ✊ (Print ✊)
+
 You: ✋ (End)
-```
-In this conversation, you're using hand gestures to communicate the same program. You start the program with the 🤙 gesture, assign values to the variables with 👌 ✊ ☝️👊 and 👌 ✌️ ☝️, check if ✊ is less than ✌️ with 🤛 ✊ 🤜 ✌️, print ✊ with 👋 ✊, and end the program with ✋.
+
+In this conversation, you're using hand gestures to communicate the same program. You start the program with the 🤙 gesture, assign a value to the variable with 👌 ✊ ☝️👊, increment the variable with 👍 ✊, check if ✊ is less than 2 with 🤛 ✊ 🤜 ☝️👊, print ✊ with 👋 ✊, and end the program with ✋.
 
 IRL emoBASIC opens up a whole new world of possibilities for visual, non-verbal communication about programming and logic. Whether you're a seasoned developer or a complete beginner, you can use IRL emoBASIC to make your conversations more engaging and visually intuitive.
-
-
