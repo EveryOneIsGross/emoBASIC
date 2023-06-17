@@ -40,8 +40,4 @@
 
 🤘 (Sign of the horns): NOT - This emoji is the logical NOT operator. For example, 🤘 ✊ x would check if 'x' is false.
 
-🤲 (Palms up together): , (Comma) - This emoji is used as a comma in the language. For example, in a function with multiple parameters, 🤲 is used to separate them, like so: 🙏 calculateSum ✊ x 🤲 ✊ y.
-
 👌 (OK hand): Assignment operator - This emoji assigns a value to a variable. For example, 👌 ✊ x ☝️ would assign the value 1 to the variable 'x'.
-
-✌️ (Victory Hand): Variable State - This emoji is used to represent a specific state of a variable. For example, ✌️ ✊ x would represent the current state of the variable 'x'.
